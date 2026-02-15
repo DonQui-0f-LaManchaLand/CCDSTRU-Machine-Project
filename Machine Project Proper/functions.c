@@ -1,6 +1,6 @@
 #include "helper.c"
 
-/*
+/* Oh the comments WHAHA o
  */
 void Remove(){
 
